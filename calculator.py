@@ -1,4 +1,4 @@
-
+# this code is written by chanveersingh follow on g8thub for more
 wl ="welcome to calculator calculate the vale you want"
 opp = ("1.addition\n"
        "2.subraction\n"
